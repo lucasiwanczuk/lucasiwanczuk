@@ -29,6 +29,7 @@
   <ul style="list-style: none;">
     <li><strong>Blitz:</strong> Processamento de chamados de TI com visualização em dashboard (Node.js, PostgreSQL, Metabase).</li>
     <li><strong>Infinity Planner:</strong> Sistema de gestão financeira com visualização em dashboard (PHP, Bootstrap, Metabase).</li>
+    <li><strong>Conta Certa:</strong> Sistema financeiro intuitivo, oferecendo um controle eficiente e fácil de usar. (React, Postgres, JavaScript).</li>
   </ul>
 </p>
 
