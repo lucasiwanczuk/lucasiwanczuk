@@ -14,7 +14,7 @@
 
 <p align="center">
   <ul style="list-style: none;">
-    <li><strong>DevOps:</strong> Criação de pipelines, automação de processos e gestão de infraestrutura com Docker, Kubernetes e CI/CD.</li>
+    <li><strong>DevOps:</strong>Automação de processos e gestão de infraestrutura com Docker e Kubernetes.</li>
     <li><strong>Desenvolvimento Full Stack:</strong> Node.js, PHP, JavaScript e integração com bancos de dados como PostgreSQL e MySQL.</li>
     <li><strong>Data Science & BI:</strong> Visualização de dados com Power BI, Metabase, Looker Studio e Google Sheets avançado.</li>
     <li><strong>Telecomunicações:</strong> Mais de 10 anos de experiência em análise e gestão de redes de alta performance.</li>
