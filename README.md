@@ -11,9 +11,10 @@
 <p align="center">
   <ul style="list-style: none;">
     <li><strong>DevOps:</strong>Automação de processos e gestão de infraestrutura com Docker e Kubernetes.</li>
-    <li><strong>Desenvolvimento Full Stack:</strong> Node.js, PHP, JavaScript e integração com bancos de dados como PostgreSQL e MySQL.</li>
-    <li><strong>Data Science & BI:</strong> Visualização de dados com Power BI, Metabase, Looker Studio e Google Sheets avançado.</li>
+    <li><strong>Desenvolvimento Full Stack:</strong> Node.js, Next.js, PHP, JavaScript e integração com bancos de dados como PostgreSQL e MySQL.</li>
+    <li><strong>Data Science & BI:</strong> Visualização de dados com Power BI, Metabase e Looker Studio.</li>
     <li><strong>Telecomunicações:</strong> Mais de 10 anos de experiência em análise e gestão de redes de alta performance.</li>
+    
   </ul>
 </p>
 
@@ -23,9 +24,12 @@
 
 <p align="center">
   <ul style="list-style: none;">
-    <li><strong>Blitz:</strong> Processamento de chamados de TI com visualização em dashboard (Node.js, PostgreSQL, Metabase).</li>
-    <li><strong>Infinity Planner:</strong> Sistema de gestão financeira com visualização em dashboard (PHP, Bootstrap, Metabase).</li>
-    <li><strong>GeraQR:</strong> Sistema para geração de QR Codes utilizado em eventos, compartilhamento de senhas e controle de acesso. (Next.js, Tailwind, QRCode.js).</li>
+    <li><strong>API Swagger:</strong> API RESTful com autenticação e documentação interativa dos endpoints (Node.js, TypeScript, Express, Swagger).</li>
+    <li><strong>ChatBot:</strong> Automação de chat com Typebot, integrando com APIs do WhatsApp, ZPRO e NewCorban (n8n, Typebot, APIs REST, JSON).</li>
+    <li><strong>Blitz:</strong> Processamento de chamados de TI com visualização de métricas  em dashboard (Node.js, PostgreSQL, Metabase).</li>
+    <li><strong>Infinity Planner:</strong> Sistema de gestão financeira com visualização em dashboard (HTML, CSSS, PHP, Bootstrap, PostgreSQL, Metabase).</li>
+    <li><strong>GeraQR:</strong> Sistema para geração de QR Codes utilizado em eventos, compartilhamento de senhas e controle de acesso (Next.js, Tailwind, QRCode.js).</li>
+    
   </ul>
 </p>
 
