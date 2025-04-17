@@ -15,13 +15,13 @@ Sou um desenvolvedor apaixonado por transformar ideias em soluções eficientes 
     <li><strong>ChatBot:</strong> Automação de chat com Typebot, integrando com APIs do WhatsApp, ZPRO e NewCorban (n8n, Typebot, APIs REST, JSON).</li>
     <br>
     <li><strong>Blitz:</strong> Processamento de chamados de TI com visualização de métricas  em dashboard (Node.js, PostgreSQL, Metabase).
-    Confira o repositório completo [Repo Blitz](https://github.com/lucasiwanczuk/api-node-express).</li>
+    Confira o repositório completo https://github.com/lucasiwanczuk/blitz</li>
     <br>
     <li><strong>Infinity Planner:</strong> Sistema de gestão financeira com visualização em dashboard (HTML, CSSS, PHP, Bootstrap, PostgreSQL, Metabase).
-    Confira o repositório completo [Repo Infinity](https://github.com/lucasiwanczuk/infinity).</li>
+    Confira o repositório completo https://github.com/lucasiwanczuk/infinity</li>
     <br>
     <li><strong>GeraQR:</strong> Sistema para geração de QR Codes utilizado em eventos, compartilhamento de senhas e controle de acesso (Next.js, Tailwind, QRCode.js).
-    Confira o repositório completo [Repo GeraQR](https://github.com/lucasiwanczuk/geraqr).</li>
+    Confira o repositório completo https://github.com/lucasiwanczuk/geraqr</li>
   </ul>
 </p>
 
