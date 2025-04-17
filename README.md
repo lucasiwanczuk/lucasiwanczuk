@@ -11,6 +11,7 @@ Sou um desenvolvedor apaixonado por transformar ideias em soluções eficientes 
   <ul style="list-style: none;">
     <li><strong>API Swagger:</strong> API RESTful com autenticação e documentação interativa dos endpoints (Node.js, TypeScript, Express, Swagger).
     Confira o repositório completo.</li>[Repo API Swagger](https://github.com/lucasiwanczuk/api-node-express)
+    [![GitHub Repo](https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-000?style=for-the-badge&logo=github)](https://github.com/lucasiwanczuk/geraqr)
     <br>
     <li><strong>ChatBot:</strong> Automação de chat com Typebot, integrando com APIs do WhatsApp, ZPRO e NewCorban (n8n, Typebot, APIs REST, JSON).</li>
     <br>
