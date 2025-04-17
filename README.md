@@ -5,20 +5,6 @@ Sou um desenvolvedor apaixonado por transformar ideias em soluções eficientes 
 
 <hr>
 
-<h2 align="center">🚀 Minhas Áreas de Atuação</h2>
-
-<p align="center">
-  <ul style="list-style: none;">
-    <li><strong>Desenvolvimento Full Stack:</strong> Node.js, Next.js, PHP, JavaScript e integração com bancos de dados como PostgreSQL e MySQL.</li>
-    <li><strong>DevOps:</strong>Automação de processos e gestão de infraestrutura com Docker e Kubernetes.</li>
-    <li><strong>Data Science & BI:</strong> Visualização de dados com Power BI, Metabase e Looker Studio.</li>
-    <li><strong>Telecomunicações:</strong> Mais de 10 anos de experiência em análise e gestão de redes de alta performance.</li>
-    
-  </ul>
-</p>
-
-<hr>
-
 <h2 align="center">📈 Meus Projetos</h2>
 
 <p align="center">
@@ -28,6 +14,20 @@ Sou um desenvolvedor apaixonado por transformar ideias em soluções eficientes 
     <li><strong>Blitz:</strong> Processamento de chamados de TI com visualização de métricas  em dashboard (Node.js, PostgreSQL, Metabase).</li>
     <li><strong>Infinity Planner:</strong> Sistema de gestão financeira com visualização em dashboard (HTML, CSSS, PHP, Bootstrap, PostgreSQL, Metabase).</li>
     <li><strong>GeraQR:</strong> Sistema para geração de QR Codes utilizado em eventos, compartilhamento de senhas e controle de acesso (Next.js, Tailwind, QRCode.js).</li>
+    
+  </ul>
+</p>
+
+<hr>
+
+<h2 align="center">🚀 Minhas Áreas de Atuação</h2>
+
+<p align="center">
+  <ul style="list-style: none;">
+    <li><strong>Desenvolvimento Full Stack:</strong> Node.js, Next.js, PHP, JavaScript e integração com bancos de dados como PostgreSQL e MySQL.</li>
+    <li><strong>DevOps:</strong>Automação de processos e gestão de infraestrutura com Docker e Kubernetes.</li>
+    <li><strong>Data Science & BI:</strong> Visualização de dados com Power BI, Metabase e Looker Studio.</li>
+    <li><strong>Telecomunicações:</strong> Mais de 10 anos de experiência em análise e gestão de redes de alta performance.</li>
     
   </ul>
 </p>
