@@ -1,8 +1,7 @@
 <h1 align="center">Olá, eu sou Lucas! 👋</h1>
 
 <p align="center">
-  Sou um desenvolvedor apaixonado por criar soluções eficientes e inovadoras nas áreas de <strong>DevOps</strong>, <strong>Desenvolvimento Full Stack</strong> e <strong>Análise de Dados</strong>.
-</p>
+Sou um desenvolvedor apaixonado por transformar ideias em soluções eficientes e escaláveis, meu foco é gerar valor real por meio de automações inteligentes, sistemas bem estruturados e decisões orientadas por dados.</p>
 
 <hr>
 
