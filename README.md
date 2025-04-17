@@ -4,10 +4,6 @@
   Sou um desenvolvedor apaixonado por criar soluções eficientes e inovadoras nas áreas de <strong>DevOps</strong>, <strong>Desenvolvimento Full Stack</strong> e <strong>Análise de Dados</strong>.
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasIwanczuk&show_icons=true&theme=chartreuse-dark" alt="Lucas Iwanczuk GitHub Stats" />
-</p>
-
 <hr>
 
 <h2 align="center">🚀 Minhas Áreas de Atuação</h2>
