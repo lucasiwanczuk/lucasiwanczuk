@@ -25,7 +25,7 @@
   <ul style="list-style: none;">
     <li><strong>Blitz:</strong> Processamento de chamados de TI com visualização em dashboard (Node.js, PostgreSQL, Metabase).</li>
     <li><strong>Infinity Planner:</strong> Sistema de gestão financeira com visualização em dashboard (PHP, Bootstrap, Metabase).</li>
-    <li><strong>Conta Certa:</strong> Sistema financeiro intuitivo, oferecendo um controle eficiente e fácil de usar. (React, Postgres, JavaScript).</li>
+    <li><strong>GeraQR:</strong> Sistema para geração de QR Codes utilizado em eventos, compartilhamento de senhas e controle de acesso. (Next.js, Tailwind, QRCode.js).</li>
   </ul>
 </p>
 
@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="mailto:lucas.iwanczuk@gmail.com"><strong>Email:</strong> lucas.iwanczuk@gmail.com</a><br>
-  <a href="https://www.linkedin.com/in/lucas-iwanczuk-75130b168/"><strong>LinkedIn:</strong> LinkedIn de Lucas</a>
+  <a href="https://www.linkedin.com/in/lucasiwanczuk"><strong>LinkedIn:</strong> LinkedIn de Lucas</a>
 </p>
 
 <hr>
